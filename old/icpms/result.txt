@@ -1,0 +1,2 @@
+time,foup,id,al,ca,da,fa,ha,kz,ra,sa,va,za
+2023-07-06,gywf1011,aadsfsf.01,1,2,0,0,0,3,4,0,3,1

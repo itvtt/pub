@@ -1,0 +1,3 @@
+[columns]
+employee_residence
+company_size
